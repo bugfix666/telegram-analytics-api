@@ -53,7 +53,7 @@ func (p *Parser) Analyze(ctx context.Context, id string, limit int, keyword stri
 		AverageViews:      summary.AverageViews,
 		AverageReactions:  summary.AverageReactions,
 		EngagementRate:    summary.EngagementRate,
-		MessagesProcessed: summary.MessagesLast30d,
+		MessagesProcessed: summary.MessagesProcessed,
 		Subscribers:       summary.Subscribers,
 		ActivityPercent:   summary.ActivityPercent,
 		ContainsKeyword:   summary.ContainsKeyword,
