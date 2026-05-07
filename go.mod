@@ -1,4 +1,4 @@
-module telegram-analytics-api
+module github.com/bugfix666/telegram-analytics-api
 
 go 1.25.0
 
