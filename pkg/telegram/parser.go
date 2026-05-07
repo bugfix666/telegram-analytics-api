@@ -5,8 +5,8 @@ import (
 
 	"go.uber.org/zap"
 
-    "github.com/bugfix666/github.com/bugfix666/telegram-analytics-api/internal/service"
-    "github.com/bugfix666/github.com/bugfix666/telegram-analytics-api/internal/telegram"
+    "github.com/bugfix666/telegram-analytics-api/internal/service"
+    "github.com/bugfix666/telegram-analytics-api/internal/telegram"
 )
 
 type Parser struct {
