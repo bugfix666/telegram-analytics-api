@@ -15,7 +15,7 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/net/proxy"
 
-	"telegram-analytics-api/internal/domain"
+	"github.com/bugfix666/telegram-analytics-api/internal/domain"
 )
 
 type Client struct {

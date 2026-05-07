@@ -14,9 +14,9 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap"
 
-	"telegram-analytics-api/internal/domain"
-	"telegram-analytics-api/internal/service"
-	"telegram-analytics-api/internal/telegram"
+	"github.com/bugfix666/telegram-analytics-api/internal/domain"
+	"github.com/bugfix666/telegram-analytics-api/internal/service"
+	"github.com/bugfix666/telegram-analytics-api/internal/telegram"
 )
 
 type mockTelegramClient struct {

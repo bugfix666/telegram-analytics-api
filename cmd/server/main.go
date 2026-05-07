@@ -9,11 +9,11 @@ import (
 
 	"go.uber.org/zap"
 
-	"telegram-analytics-api/internal/config"
-	"telegram-analytics-api/internal/logger"
-	"telegram-analytics-api/internal/service"
-	"telegram-analytics-api/internal/telegram"
-	"telegram-analytics-api/internal/transport/rest"
+	"github.com/bugfix666/telegram-analytics-api/internal/config"
+	"github.com/bugfix666/telegram-analytics-api/internal/logger"
+	"github.com/bugfix666/telegram-analytics-api/internal/service"
+	"github.com/bugfix666/telegram-analytics-api/internal/telegram"
+	"github.com/bugfix666/telegram-analytics-api/internal/transport/rest"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"telegram-analytics-api/internal/domain"
+	"github.com/bugfix666/telegram-analytics-api/internal/domain"
 )
 
 type ClientInterface interface {

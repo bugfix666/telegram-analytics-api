@@ -7,7 +7,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"telegram-analytics-api/internal/service"
+	"github.com/bugfix666/telegram-analytics-api/internal/service"
 )
 
 type Handler struct {

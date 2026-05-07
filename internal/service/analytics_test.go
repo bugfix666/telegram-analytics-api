@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"telegram-analytics-api/internal/domain"
+	"github.com/bugfix666/telegram-analytics-api/internal/domain"
 )
 
 type mockClient struct {

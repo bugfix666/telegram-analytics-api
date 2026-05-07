@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"telegram-analytics-api/internal/domain"
-	"telegram-analytics-api/internal/telegram"
+	"github.com/bugfix666/telegram-analytics-api/internal/domain"
+	"github.com/bugfix666/telegram-analytics-api/internal/telegram"
 )
 
 type AnalyticsService struct {
